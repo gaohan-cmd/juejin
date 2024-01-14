@@ -11,5 +11,5 @@
   
   5、定时任务-》执行（查看日志是否成功）
 # juejin_cookie获取
-获取掘金网站Cookie, 打开浏览器，登录 掘金, 打开控制台DevTools(快捷键F12) -> Network，复制 cookie
+获取掘金网站Cookie, 打开浏览器，登录[掘金](https://juejin.cn/), 打开控制台DevTools(快捷键F12) -> Network，复制 cookie
   ![image](https://github.com/gaohan-cmd/juejin/assets/63499259/36f3d9d9-3b57-41da-87eb-78a43cc5c538)
